@@ -1,17 +1,10 @@
 {
 	"posts": [
 		{
-			"id": 2,
-			"title": "Lorem Ipsum 2",
-			"short": "Lol lol lol lol lol lol",
-			"filename": "lorem_ipsum2.md",
-			"author": "314ShadePi"
-		},
-		{
-			"id": 1,
-			"title": "Lorem Ipsum",
-			"short": "Lol lol lol lol lol lol",
-			"filename": "lorem_ipsum.md",
+			"id": "pseudovidenskab-sundhed",
+			"title": "Pseudovidenskab og sundhed",
+			"short": "Pseudovidenskab overtager medierne. Hvad skal man tro på?",
+			"filename": "pseudovidenskab_sundhed.md",
 			"author": "314ShadePi"
 		}
 	]
