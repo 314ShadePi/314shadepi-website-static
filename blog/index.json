@@ -1,1 +1,16 @@
-{}
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Lorem Ipsum",
+			"filename": "lorem_ipsum.md",
+			"author": "314ShadePi"
+		},
+		{
+			"id": 1,
+			"title": "Lorem Ipsum",
+			"filename": "lorem_ipsum.md",
+			"author": "314ShadePi"
+		}
+	]
+}
