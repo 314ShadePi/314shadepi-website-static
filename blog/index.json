@@ -1,9 +1,9 @@
 {
 	"posts": [
 		{
-			"id": 1,
-			"title": "Lorem Ipsum",
-			"filename": "lorem_ipsum.md",
+			"id": 2,
+			"title": "Lorem Ipsum 2",
+			"filename": "lorem_ipsum2.md",
 			"author": "314ShadePi"
 		},
 		{
