@@ -1,18 +1,18 @@
 {
 	"posts": [
-		{
-			"id": "creating-a-dnd-workshop-pt-0",
-			"title": "Creating a D&D Workshop Part 0",
-			"short": "I'm creating a D&D Workshop with a friend. Apparently this involves actually doing stuff.",
-			"filename": "0000/00/00/dnd_workshop.md",
-			"author": "Shay"
-		},
                 {
                         "id": "test",
 			"title": "Test",
 			"short": "Test",
 			"filename": "test.md",
 			"author": "Shay"
-                }
+                },
+		{
+			"id": "creating-a-dnd-workshop-pt-0",
+			"title": "Creating a D&D Workshop Part 0",
+			"short": "I'm creating a D&D Workshop with a friend. Apparently this involves actually doing stuff.",
+			"filename": "0000/00/00/dnd_workshop.md",
+			"author": "Shay"
+		}
 	]
 }
